@@ -210,7 +210,7 @@
                         <A href="javascript:void(0);">Company</A>
                         <UL>
                             <LI class="pushy-link">
-                                <A href="http://www.asg.com/en/Company/About.aspx">About Us</A>
+                                <A href="About.aspx">About Us</A>
                             </LI>
                             <LI class="pushy-link">
                                 <A href="http://www.asg.com/en/Company/Executive-Team.aspx">
@@ -474,7 +474,7 @@
                                             </DIV>
                                         </DIV>
                                         <DIV class="cont-btn">
-                                            <INPUT class="contact-u" onclick="location.href = '/Company/Contact-Us.aspx';" type="button" value="Contact Us">
+                                            <INPUT class="contact-u" onclick="location.href = 'ContactUs.aspx';" type="button" value="Contact Us">
                                         </DIV>
                                     </DIV>
                                 </DIV>
@@ -1246,7 +1246,8 @@
                     </DIV>
                 </DIV><!--start main-wrapper-->
                 <DIV class="main-wrapper">
-                    <!--start req-demo--><!-- <div class="req-demo"><a href="/Company/Contact-Us.aspx"><img alt="Contact US" src="/AsgImages/contact-demo-btn.png" /></a></div>--><A class="con-demo" href="http://www.asg.com/Company/Contact-Us.aspx">
+                    <!--start req-demo--><!-- <div class="req-demo"><a href="/Company/Contact-Us.aspx"><img alt="Contact US" src="/AsgImages/contact-demo-btn.png" /></a></div>-->
+                    <A class="con-demo" href="ContactUs.aspx">
                         <SPAN>
                             Contact
                             Us
